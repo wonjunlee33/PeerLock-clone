@@ -1,0 +1,92 @@
+[
+    {
+        "username": "김가연",
+        "password": "1234",
+        "sex": 0,
+        "email": "ll@test.com",
+        "birth": "990708",
+        "phoneNumber": "01012345678",
+        "status": "user"
+    },
+    {
+        "username": "이민우",
+        "password": "1234",
+        "sex": 1,
+        "email": "ab@test.com",
+        "birth": "891112",
+        "phoneNumber": "01087654321",
+        "status": "user"
+    },
+    {
+        "username": "박서영",
+        "password": "1234",
+        "sex": 0,
+        "email": "cd@test.com",
+        "birth": "940531",
+        "phoneNumber": "01023456789",
+        "status": "host"
+    },
+    {
+        "username": "정현우",
+        "password": "1234",
+        "sex": 1,
+        "email": "ef@test.com",
+        "birth": "980704",
+        "phoneNumber": "01098765432",
+        "status": "user"
+    },
+    {
+        "username": "이지은",
+        "password": "1234",
+        "sex": 0,
+        "email": "gh@test.com",
+        "birth": "910303",
+        "phoneNumber": "01034567890",
+        "status": "host"
+    },
+    {
+        "username": "김태영",
+        "password": "1234",
+        "sex": 1,
+        "email": "ij@test.com",
+        "birth": "920609",
+        "phoneNumber": "01045678901",
+        "status": "user"
+    },
+    {
+        "username": "한승민",
+        "password": "1234",
+        "sex": 1,
+        "email": "kl@test.com",
+        "birth": "990826",
+        "phoneNumber": "01056789012",
+        "status": "host"
+    },
+    {
+        "username": "최예진",
+        "password": "1234",
+        "sex": 0,
+        "email": "mn@test.com",
+        "birth": "950218",
+        "phoneNumber": "01067890123",
+        "status": "user"
+    },
+    {
+        "username": "신지우",
+        "password": "1234",
+        "sex": 0,
+        "email": "op@test.com",
+        "birth": "930712",
+        "phoneNumber": "01078901234",
+        "status": "host"
+    },
+    {
+        "username": "임성민",
+        "password": "1234",
+        "sex": 1,
+        "email": "qr@test.com",
+        "birth": "970401",
+        "phoneNumber": "01089012345",
+        "status": "user"
+    }
+]

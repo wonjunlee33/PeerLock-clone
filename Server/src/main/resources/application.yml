@@ -1,0 +1,19 @@
+spring:
+  profiles:
+    active: local2
+
+custom:
+  property:
+    single: custom-property
+    comlist: comma,separated,list,to,value
+    ymllist:
+      - yaml
+      - list
+      - to
+      - spring
+      - value
+
+# test
+# jonguk test branch github
+# feature branch test
+# jonguk local develop test

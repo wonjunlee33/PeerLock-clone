@@ -1,0 +1,212 @@
+[
+    {
+        "reservationId": 1,
+        "userId": 3,
+        "storageId": 9,
+        "startDate": "2023-07-15T08:30:00.000Z",
+        "endDate": "2023-08-15T08:30:00.000Z",
+        "itemSize": "중형",
+        "paymentMethod": "신용카드",
+        "totalMonths": 7,
+        "totalStoragePrice": 28000,
+        "insurancePlan": "프리미엄",
+        "insurancePrice": 50000,
+        "totalPayment": 350000,
+        "status": "string",
+        "images": [
+            {
+                "imageName": "image1.jpg",
+                "imagePath": "https://kr.object.ncloudstorage.com/peerlock-image-storage/storage/bag1.jpeg"
+            }
+        ]
+    },
+    {
+        "reservationId": 2,
+        "userId": 1,
+        "storageId": 10,
+        "startDate": "2023-06-10T12:45:00.000Z",
+        "endDate": "2023-08-10T12:45:00.000Z",
+        "itemSize": "대형",
+        "paymentMethod": "카카오페이",
+        "totalMonths": 5,
+        "totalStoragePrice": 45000,
+        "insurancePlan": "스탠다드",
+        "insurancePrice": 5000,
+        "totalPayment": 47500,
+        "status": "string",
+        "images": [
+            {
+                "imageName": "image2.jpg",
+                "imagePath": "https://kr.object.ncloudstorage.com/peerlock-image-storage/storage/bag2.jpeg"
+            }
+        ]
+    },
+    {
+        "reservationId": 3,
+        "userId": 5,
+        "storageId": 7,
+        "startDate": "2023-09-20T15:20:00.000Z",
+        "endDate": "2023-10-20T15:20:00.000Z",
+        "itemSize": "소형",
+        "paymentMethod": "네이버페이",
+        "totalMonths": 3,
+        "totalStoragePrice": 15000,
+        "insurancePlan": "미선택",
+        "insurancePrice": 0,
+        "totalPayment": 15000,
+        "status": "string",
+        "images": [
+            {
+                "imageName": "image3.jpg",
+                "imagePath": "https://kr.object.ncloudstorage.com/peerlock-image-storage/storage/bag3.jpeg"
+            }
+        ]
+    },
+    {
+        "reservationId": 4,
+        "userId": 2,
+        "storageId": 9,
+        "startDate": "2023-10-05T18:10:00.000Z",
+        "endDate": "2023-12-05T18:10:00.000Z",
+        "itemSize": "중형",
+        "paymentMethod": "토스페이",
+        "totalMonths": 8,
+        "totalStoragePrice": 40000,
+        "insurancePlan": "프리미엄",
+        "insurancePrice": 50000,
+        "totalPayment": 900000,
+        "status": "string",
+        "images": [
+            {
+                "imageName": "image4.jpg",
+                "imagePath": "https://kr.object.ncloudstorage.com/peerlock-image-storage/storage/bag4.webp"
+            }
+        ]
+    },
+    {
+        "reservationId": 5,
+        "userId": 4,
+        "storageId": 5,
+        "startDate": "2023-08-08T21:05:00.000Z",
+        "endDate": "2023-09-08T21:05:00.000Z",
+        "itemSize": "대형",
+        "paymentMethod": "애플페이",
+        "totalMonths": 2,
+        "totalStoragePrice": 20000,
+        "insurancePlan": "스탠다드",
+        "insurancePrice": 5000,
+        "totalPayment": 25000,
+        "status": "string",
+        "images": [
+            {
+                "imageName": "image5.jpg",
+                "imagePath": "https://kr.object.ncloudstorage.com/peerlock-image-storage/storage/bigbag1.jpeg"
+            }
+        ]
+    },
+    {
+        "reservationId": 6,
+        "userId": 5,
+        "storageId": 3,
+        "startDate": "2023-11-15T09:30:00.000Z",
+        "endDate": "2023-12-15T09:30:00.000Z",
+        "itemSize": "소형",
+        "paymentMethod": "삼성페이",
+        "totalMonths": 6,
+        "totalStoragePrice": 24000,
+        "insurancePlan": "미선택",
+        "insurancePrice": 0,
+        "totalPayment": 24000,
+        "status": "string",
+        "images": [
+            {
+                "imageName": "image6.jpg",
+                "imagePath": "https://kr.object.ncloudstorage.com/peerlock-image-storage/storage/bigbag2.webp"
+            }
+        ]
+    },
+    {
+        "reservationId": 7,
+        "userId": 1,
+        "storageId": 5,
+        "startDate": "2023-07-01T14:15:00.000Z",
+        "endDate": "2023-08-01T14:15:00.000Z",
+        "itemSize": "중형",
+        "paymentMethod": "네이버페이",
+        "totalMonths": 9,
+        "totalStoragePrice": 36000,
+        "insurancePlan": "프리미엄",
+        "insurancePrice": 50000,
+        "totalPayment": 810000,
+        "status": "string",
+        "images": [
+            {
+                "imageName": "image7.jpg",
+                "imagePath": "https://kr.object.ncloudstorage.com/peerlock-image-storage/storage/suitcase7.webp"
+            }
+        ]
+    },
+    {
+        "reservationId": 8,
+        "userId": 1,
+        "storageId": 6,
+        "startDate": "2023-07-01T14:15:00.000Z",
+        "endDate": "2023-08-01T14:15:00.000Z",
+        "itemSize": "중형",
+        "paymentMethod": "네이버페이",
+        "totalMonths": 9,
+        "totalStoragePrice": 36000,
+        "insurancePlan": "프리미엄",
+        "insurancePrice": 50000,
+        "totalPayment": 810000,
+        "status": "string",
+        "images": [
+            {
+                "imageName": "image7.jpg",
+                "imagePath": "hhttps://kr.object.ncloudstorage.com/peerlock-image-storage/storage/suitcase1.jpg"
+            }
+        ]
+    },
+    {
+        "reservationId": 9,
+        "userId": 3,
+        "storageId": 1,
+        "startDate": "2023-07-01T14:15:00.000Z",
+        "endDate": "2023-08-01T14:15:00.000Z",
+        "itemSize": "중형",
+        "paymentMethod": "네이버페이",
+        "totalMonths": 9,
+        "totalStoragePrice": 36000,
+        "insurancePlan": "프리미엄",
+        "insurancePrice": 50000,
+        "totalPayment": 810000,
+        "status": "string",
+        "images": [
+            {
+                "imageName": "image7.jpg",
+                "imagePath": "https://kr.object.ncloudstorage.com/peerlock-image-storage/storage/suitcase4.jpeg"
+            }
+        ]
+    },
+    {
+        "reservationId": 10,
+        "userId": 2,
+        "storageId": 10,
+        "startDate": "2023-07-01T14:15:00.000Z",
+        "endDate": "2023-08-01T14:15:00.000Z",
+        "itemSize": "중형",
+        "paymentMethod": "네이버페이",
+        "totalMonths": 9,
+        "totalStoragePrice": 36000,
+        "insurancePlan": "프리미엄",
+        "insurancePrice": 50000,
+        "totalPayment": 810000,
+        "status": "string",
+        "images": [
+            {
+                "imageName": "image7.jpg",
+                "imagePath": "https://kr.object.ncloudstorage.com/peerlock-image-storage/storage/suitcase3.webp"
+            }
+        ]
+    }
+]

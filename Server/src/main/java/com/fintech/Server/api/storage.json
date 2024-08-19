@@ -1,0 +1,242 @@
+[
+    {
+        "userId": 3,
+        "storageName": "양종욱의 방",
+        "storageAddress": "서울특별시 영등포구 여의도동 50-63",
+        "storageLatitude": "37.519377",
+        "storageLongitude": "126.940175",
+        "storageType": "기타",
+        "storageSize": "대형",
+        "storageFeature": "1",
+        "storagePrice": 80000,
+        "serviceCommission": 10,
+        "storageDescription": "도심에 위치한 중앙 창고입니다.",
+        "returnPolicy": "구매 후 30일 이내에 반품 가능합니다.",
+        "images": [
+            {
+                "imageName": "양종욱의 방",
+                "imagePath": "https://kr.object.ncloudstorage.com/peerlock-image-storage/storage/room1.jpg"
+            },
+            {
+                "imageName": "양종욱의 방",
+                "imagePath": "https://kr.object.ncloudstorage.com/peerlock-image-storage/storage/room10.jpeg"
+            }
+        ]
+    },
+    {
+        "userId": 1,
+        "storageName": "윤주혜의 방",
+        "storageAddress": "서울특별시 영등포구 국제금융로 10",
+        "storageLatitude": "37.525797",
+        "storageLongitude": "126.925933",
+        "storageType": "상권",
+        "storageSize": "소형",
+        "storageFeature": "1",
+        "storagePrice": 15000,
+        "serviceCommission": 10,
+        "storageDescription": "도심에 위치한 중앙 창고입니다.",
+        "returnPolicy": "구매 후 30일 이내에 반품 가능합니다.",
+        "images": [
+            {
+                "imageName": "윤주혜의 방",
+                "imagePath": "https://kr.object.ncloudstorage.com/peerlock-image-storage/storage/room11.jpeg"
+            },
+            {
+                "imageName": "윤주혜의 방",
+                "imagePath": "https://kr.object.ncloudstorage.com/peerlock-image-storage/storage/room12.jpeg"
+            }
+        ]
+    },
+    {
+        "userId": 5,
+        "storageName": "이원준의 방",
+        "storageAddress": "서울특별시 영등포구 의사당대로 1",
+        "storageLatitude": "37.528771",
+        "storageLongitude": "126.913512",
+        "storageType": "상권",
+        "storageSize": "중형",
+        "storageFeature": "1",
+        "storagePrice": 20000,
+        "serviceCommission": 10,
+        "storageDescription": "도심에 위치한 중앙 창고입니다.",
+        "returnPolicy": "구매 후 30일 이내에 반품 가능합니다.",
+        "images": [
+            {
+                "imageName": "이원준의 방",
+                "imagePath": "https://kr.object.ncloudstorage.com/peerlock-image-storage/storage/room13.jpeg"
+            },
+            {
+                "imageName": "이원준의 방",
+                "imagePath": "https://kr.object.ncloudstorage.com/peerlock-image-storage/storage/room14.jpeg"
+            }
+        ]
+    },
+    {
+        "userId": 2,
+        "storageName": "김현수의 방",
+        "storageAddress": "서울특별시 영등포구 여의대로 108 파크원",
+        "storageLatitude": "37.522095",
+        "storageLongitude": "126.925790",
+        "storageType": "창고",
+        "storageSize": "중형",
+        "storageFeature": "1",
+        "storagePrice": 45000,
+        "serviceCommission": 10,
+        "storageDescription": "도심에 위치한 중앙 창고입니다.",
+        "returnPolicy": "구매 후 30일 이내에 반품 가능합니다.",
+        "images": [
+            {
+                "imageName": "김현수의 방",
+                "imagePath": "https://kr.object.ncloudstorage.com/peerlock-image-storage/storage/room15.avif"
+            },
+            {
+                "imageName": "김현수의 방",
+                "imagePath": "https://kr.object.ncloudstorage.com/peerlock-image-storage/storage/room2.jpg"
+            }
+        ]
+    },
+    {
+        "userId": 4,
+        "storageName": "차규빈의 방",
+        "storageAddress": "서울특별시 중구 을지로 20",
+        "storageLatitude": "37.524101",
+        "storageLongitude": "126.927676",
+        "storageType": "방",
+        "storageSize": "소형",
+        "storageFeature": "1",
+        "storagePrice": 65000,
+        "serviceCommission": 10,
+        "storageDescription": "도심에 위치한 중앙 창고입니다.",
+        "returnPolicy": "구매 후 30일 이내에 반품 가능합니다.",
+        "images": [
+            {
+                "imageName": "차규빈의 방",
+                "imagePath": "https://kr.object.ncloudstorage.com/peerlock-image-storage/storage/room3.jpg"
+            },
+            {
+                "imageName": "차규빈의 방",
+                "imagePath": "https://kr.object.ncloudstorage.com/peerlock-image-storage/storage/room4.jpg"
+            }
+        ]
+    },
+    {
+        "userId": 3,
+        "storageName": "배승우의 방",
+        "storageAddress": "서울특별시 영등포구 여의나루로 76",
+        "storageLatitude": "37.521907",
+        "storageLongitude": "126.927445",
+        "storageType": "기타",
+        "storageSize": "대형",
+        "storageFeature": "1",
+        "storagePrice": 30000,
+        "serviceCommission": 10,
+        "storageDescription": "도심에 위치한 중앙 창고입니다.",
+        "returnPolicy": "구매 후 30일 이내에 반품 가능합니다.",
+        "images": [
+            {
+                "imageName": "배승우의 방",
+                "imagePath": "https://kr.object.ncloudstorage.com/peerlock-image-storage/storage/room5.jpg"
+            },
+            {
+                "imageName": "배승우의 방",
+                "imagePath": "https://kr.object.ncloudstorage.com/peerlock-image-storage/storage/room6.jpg"
+            }
+        ]
+    },
+    {
+        "userId": 1,
+        "storageName": "김가연의 방",
+        "storageAddress": "서울특별시 용산구 한강대로 25",
+        "storageLatitude": "37.526505",
+        "storageLongitude": "126.928650",
+        "storageType": "창고",
+        "storageSize": "대형",
+        "storageFeature": "1",
+        "storagePrice": 55000,
+        "serviceCommission": 10,
+        "storageDescription": "도심에 위치한 중앙 창고입니다.",
+        "returnPolicy": "구매 후 30일 이내에 반품 가능합니다.",
+        "images": [
+            {
+                "imageName": "김가연의 방",
+                "imagePath": "https://kr.object.ncloudstorage.com/peerlock-image-storage/storage/room7.jpg"
+            },
+            {
+                "imageName": "김가연의 방",
+                "imagePath": "https://kr.object.ncloudstorage.com/peerlock-image-storage/storage/room8.jpeg"
+            }
+        ]
+    },
+    {
+        "userId": 5,
+        "storageName": "김테현의 옷장",
+        "storageAddress": "서울특별시 중구 퇴계로 21-6",
+        "storageLatitude": "37.524534",
+        "storageLongitude": "126.848224",
+        "storageType": "기타",
+        "storageSize": "소형",
+        "storageFeature": "1",
+        "storagePrice": 20000,
+        "serviceCommission": 10,
+        "storageDescription": "도심에 위치한 중앙 창고입니다.",
+        "returnPolicy": "구매 후 30일 이내에 반품 가능합니다.",
+        "images": [
+            {
+                "imageName": "김테현의 옷장",
+                "imagePath": "https://kr.object.ncloudstorage.com/peerlock-image-storage/storage/room9.jpeg"
+            },
+            {
+                "imageName": "김테현의 옷장",
+                "imagePath": "https://kr.object.ncloudstorage.com/peerlock-image-storage/storage/room15.avif"
+            }
+        ]
+    },
+    {
+        "userId": 2,
+        "storageName": "김종민의 옷장",
+        "storageAddress": "서울특별시 영등포구 여의공원로 13",
+        "storageLatitude": "37.523541",
+        "storageLongitude": "126.929991",
+        "storageType": "상권",
+        "storageSize": "소형",
+        "storageFeature": "1",
+        "storagePrice": 30000,
+        "serviceCommission": 10,
+        "storageDescription": "도심에 위치한 중앙 창고입니다.",
+        "returnPolicy": "구매 후 30일 이내에 반품 가능합니다.",
+        "images": [
+            {
+                "imageName": "김종민의 옷장",
+                "imagePath": "https://kr.object.ncloudstorage.com/peerlock-image-storage/storage/room3.jpg"
+            },
+            {
+                "imageName": "김종민의 옷장",
+                "imagePath": "https://kr.object.ncloudstorage.com/peerlock-image-storage/storage/room4.jpg"
+            }
+        ]
+    },
+    {
+        "userId": 2,
+        "storageName": "김종민의 옷장",
+        "storageAddress": "서울특별시 영등포구 여의공원로 13",
+        "storageLatitude": "37.525787",
+        "storageLongitude": "126.9264",
+        "storageType": "상권",
+        "storageSize": "소형",
+        "storageFeature": "1",
+        "storagePrice": 30000,
+        "serviceCommission": 10,
+        "storageDescription": "도심에 위치한 중앙 창고입니다.",
+        "returnPolicy": "구매 후 30일 이내에 반품 가능합니다.",
+        "images": [
+            {
+                "imageName": "김종민의 옷장",
+                "imagePath": "https://kr.object.ncloudstorage.com/peerlock-image-storage/storage/room13.jpeg"
+            },
+            {
+                "imageName": "김종민의 옷장",
+                "imagePath": "https://kr.object.ncloudstorage.com/peerlock-image-storage/storage/room14.jpeg"
+            }
+        ]
+    }
+]

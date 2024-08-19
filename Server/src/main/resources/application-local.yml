@@ -1,0 +1,56 @@
+# Spring Base 설정
+spring:
+  config:
+    activate:
+      on-profile: local
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://root:ou7ZeZvmzgtELAxpEBtY@containers-us-west-192.railway.app:6222/railway
+    username: root
+    password: ou7ZeZvmzgtELAxpEBtY
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: false
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.MySQL8Dialect
+  servlet:
+    multipart:
+      max-file-size: 10MB
+      max-request-size: 10MB
+
+# OAuth 테스트
+oauth:
+  kakao:
+    client-id: a8c9c3771d617ed6e616d879d2e3af75
+    url:
+      auth: https://kauth.kakao.com
+      api: https://kapi.kakao.com
+
+# Logger 설정
+logging:
+  level:
+    root: info # warn error info만 출력
+
+ncp:
+  accessKey: SMNtuwxPNgTE0kv1xd4M
+  secretKey: glguexn1XgJIHlt5mL050WVt1oWHhLEPioV0hgyf
+  endpoint: https://kr.object.ncloudstorage.com
+  bucketName: peerlock-image-storage
+
+# Swagger 설정
+springdoc:
+  swagger-ui:
+    path: /swagger-ui.html
+    groups-order: DESC
+    operationsSorter: method
+    disable-swagger-default-url: true
+    display-request-duration: true
+  api-docs:
+    path: /api-docs
+  show-actuator: true
+  default-consumes-media-type: application/json
+  default-produces-media-type: application/json
+  paths-to-match:
+    - /api/**

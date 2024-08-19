@@ -1,0 +1,47 @@
+spring:
+  config:
+    activate:
+      on-profile: local2
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://db-ika4m.pub-cdb.ntruss.com:3306/peerlock-dev?useSSL=false&characterEncoding=UTF-8&serverTimezone=Asia/Seoul
+    username: peerlock
+    password: qwe123!@#
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: false
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.MySQL8Dialect
+  servlet:
+    multipart:
+      max-file-size: 10MB
+      max-request-size: 10MB
+
+# Logger 설정
+logging:
+  level:
+    root: info # warn error info만 출력
+
+ncp:
+  accessKey: SMNtuwxPNgTE0kv1xd4M
+  secretKey: glguexn1XgJIHlt5mL050WVt1oWHhLEPioV0hgyf
+  endpoint: https://kr.object.ncloudstorage.com
+  bucketName: peerlock-image-storage
+
+# Swagger 설정
+springdoc:
+  swagger-ui:
+    path: /swagger-ui.html
+    groups-order: DESC
+    operationsSorter: method
+    disable-swagger-default-url: true
+    display-request-duration: true
+  api-docs:
+    path: /api-docs
+  show-actuator: true
+  default-consumes-media-type: application/json
+  default-produces-media-type: application/json
+  paths-to-match:
+    - /api/**
